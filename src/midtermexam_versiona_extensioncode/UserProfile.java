@@ -30,7 +30,9 @@ public class UserProfile
         userID = givenID;
         genre= givenGenre;
     }
-
+    /** these are some comments that i added
+     *  need to fetch + merge
+     */
     /**
      * A getter for the userID
      * @return the userID
